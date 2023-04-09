@@ -17,6 +17,8 @@ the online fix crack link: https://www.mediafire.com/file/07t6sr60puw3jyq/Online
 
 And Thats It
 
+Credits:gamingbeasts
+
 System Requirments:
 
 Minimum Requirments:
