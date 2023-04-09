@@ -40,3 +40,7 @@ VIDEO CARD: NVidia GTX 970 OR NVidia GTX 1060 3GB OR AMD R9 290x OR AMD RX 470
 PIXEL SHADER: 5.1
 VERTEX SHADER: 5.1
 DEDICATED VIDEO RAM: 4 GB
+
+Instruction Video:
+
+https://drive.google.com/file/d/1Iro3ysfvdR0KcNpvg_MgjdAbukHai_Ir/view?usp=share_link
