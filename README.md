@@ -46,3 +46,7 @@ DEDICATED VIDEO RAM: 4 GB
 Instruction Video:
 
 https://drive.google.com/file/d/1Iro3ysfvdR0KcNpvg_MgjdAbukHai_Ir/view?usp=share_link
+
+game requirments:
+
+Steam + microsoft account
